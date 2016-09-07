@@ -1,0 +1,19 @@
+{
+  "name": "firstreaction",
+  "version": "1.0.0",
+  "description": "First React.js Tutorial Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sherwoodwt/FirstReaction.git"
+  },
+  "author": "Will Sherwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sherwoodwt/FirstReaction/issues"
+  },
+  "homepage": "https://github.com/Sherwoodwt/FirstReaction#readme"
+}
